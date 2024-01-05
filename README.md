@@ -25,7 +25,7 @@
 import { Column, Entity } from 'typeorm';
 import { TsForm } from 'ts-form/typeorm';
 
-@tsForm() // ⬅️ Here it is! The Magic 🪄
+@TsForm() // ⬅️ Here it is! The Magic 🪄
 @Entity()
 export class Animal {
   @Column({ unique: true }) name: string;
