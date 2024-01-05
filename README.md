@@ -92,3 +92,7 @@ function CreateAnimalPage (props) {
 }
 ```
 
+### 🎉 Viola! A Wild Form Appears!
+
+![](https://github.com/James1x0/ts-form/blob/main/example.png?raw=true)
+
